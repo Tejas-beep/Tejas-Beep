@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/tejas-beep/Tejas-Beep/blob/output/github-snake-dark.svg)
