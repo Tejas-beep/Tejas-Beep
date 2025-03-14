@@ -2,8 +2,13 @@
 
 name: Generate Snake
 
-# Controls when the action will run. This action runs every 6 hours.
+# Set permissions for the workflow
+permissions:
+  contents: write  # Allows writing changes to the repository
+  pages: write     # Allows publishing to GitHub Pages
+  id-token: write  # Allows authentication with GitHub Actions
 
+# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
       # every 6 hours
@@ -34,7 +39,7 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
+     # Show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
       # Push the changes
