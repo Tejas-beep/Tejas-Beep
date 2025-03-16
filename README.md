@@ -1,3 +1,9 @@
+<img src="https://github.com/Tejas-beep/Tejas-Beep/blob/main/Tejas-Beep/docs/Tejas-Beep-Banner.gif" alt="Tejas-Beep Banner">
+
+
+
+
+
 <h1 align="center">👋🏻 Hey there, I'm Tejas</h1>
 <h3 align="center">Computer Engineering Student | Ethical Hacker & CyberSecurity Expert</h3>
 
