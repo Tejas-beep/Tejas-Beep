@@ -16,11 +16,15 @@
 
   - 💻 I’m currently working on [**AndroSploit**](https://github.com/Tejas-beep/AndroSploit.git).
 
-  - 🤝🏻 I’m open to working on projects involving **Hacking**, **React Native**, **MERN**, **Linux**, **Python**, **Web Apps** etc.
+  - 🤝🏻 I’m open to working on projects involving **Hacking**, **Linux**, **Python**, **Web Apps** etc.
+
+  - 💬 Ask me about **Hacking /Cyber-Security**
 
   - 📫 Reach me at : **<tejasmahajantech@gmail.com>**
 
   - 📱 Connect with me : **[LinkedIn](https://www.linkedin.com/in/tejas-mahajan-8a65a1343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
+
+  - ⚡ Fun fact **I am Funny**
 </div>
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
@@ -521,22 +525,18 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/tejas-beep/Tejas-Beep/blob/output/github-snake.svg" alt="snake gif">
-</div>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Beep&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Tejas-Beep" />
+</p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-beep&show_icons=true&locale=en&layout=compact&theme=dark">
-    <img alt="Shows Tejas's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-beep&show_icons=true&locale=en&layout=compact&theme=default">
-  </picture>
-</div>
+<p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Beep&show_icons=true&locale=en&theme=tokyonight" alt="Tejas-Beep" />
+</p>
 
-<div align="center">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tejas-beep&show_icons=true&theme=light" width="48%"></img>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-beep&theme=light" width="48%"></img>
-  </picture>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Beep&&theme=tokyonight" alt="Tejas-Beep" />
+</p>
+
  
 </div>
 
