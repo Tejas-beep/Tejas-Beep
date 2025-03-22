@@ -542,6 +542,12 @@
 </div>
 
 <div align="center">
+  <img src="https://github.com/tejas-beep/Tejas-Beep/blob/output/github-snake.svg" alt="snake gif">
+</div>
+
+
+
+<div align="center">
   <h2>📌 Recent Activity</h2>
   <picture>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-beep&bg_color=FFFFFF&color=000000&line=6A5ACD&point=000000" width="100%">
