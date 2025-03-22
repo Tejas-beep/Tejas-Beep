@@ -16,15 +16,15 @@
 
   - 💻 I’m currently working on [**AndroSploit**](https://github.com/Tejas-beep/AndroSploit.git).
 
-  - 🤝🏻 I’m open to working on projects involving **Hacking**, **Linux**, **Python**, **Web Apps** etc.
+  - ️‍🔥 I’m good at developing tools/Software for Cyber Security/Investigation
 
-  - 💬 Ask me about **Hacking /Cyber-Security**
+  - 💬 Ask me about **Cyber Security, Penetration Testing, and Bug Bounty**
 
   - 📫 Reach me at : **<tejasmahajantech@gmail.com>**
 
   - 📱 Connect with me : **[LinkedIn](https://www.linkedin.com/in/tejas-mahajan-8a65a1343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
-  - ⚡ Fun fact **I am Funny**
+  - ⚡ Fun fact **Hack ---> Code ---> Repeat**
 </div>
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
@@ -40,479 +40,157 @@
   </p>
 </div>
 
-<h3 align="left">🛠️ Tech Stack:</h3>
-<div align="left">
-  <p align="left">
-  <kbd>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=c"
-        />
-        <img src="https://skillicons.dev/icons?i=c&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=cpp"
-        />
-        <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
+<h3 align="left">Cyber Security :</h3>
+<p align="left">
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR058_xi_UJw60nfSpHyQkZTAeJLSz_zQRh7g&s" alt="kali-linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-metasploit.svg" alt="metasploit" width="40" height="40"/> 
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-burp.svg" alt="burp-suite" width="40" height="40"/> 
+  </a>
+  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-sqlmap.svg" alt="sqlmap" width="40" height="40"/> 
+  </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="40" height="40"/> 
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-wireshark.svg" alt="wireshark" width="40" height="40"/> 
+  </a>
+  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-aircrack-ng.svg" alt="aircrack-ng" width="40" height="40"/> 
+  </a>
+  <a href="https://hashcat.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="40" height="40"/> 
+  </a>
+  <div>
+  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-john.svg" alt="john-the-ripper" width="40" height="40"/> 
+  </a>
+  <a href="https://www.bettercap.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" alt="bettercap" width="40" height="40"/> 
+  </a>
+  <a href="https://www.maltego.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-maltego.svg" alt="bettercap" width="40" height="40"/> 
+  </a>
+  <a href="https://www.kali.org/tools/powershell-empire/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-powershell-empire.svg" alt="bettercap" width="40" height="40"/> 
+  </a>
+   <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-hydra.svg" alt="bettercap" width="40" height="40"/> 
+  </a>
+   <a href="https://www.kali.org/tools/starkiller/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-starkiller.svg" alt="bettercap" width="40" height="40"/> 
+  </a>
+   <a href="https://www.kali.org/tools/responder/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="bettercap" width="40" height="40"/> 
+  </a>
+   <a href="https://www.kali.org/tools/netexec/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/tool-logo-netexec.svg" alt="bettercap" width="40" height="40"/> 
+  </a>
+    
+  </div>
+  
+</p>
 
-  <kbd>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=python"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=python&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
+<h3 align="left">Programming Languages :</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a>
+  
+  <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://www.kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
+</p>
 
-  <kbd>
-    <a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=kotlin"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=kotlin&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=django"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=django&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/HTML"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=html"
-        />
-        <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
+<h3 align="left">Front-End Development :</h3>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <!-- Add more front end languages below -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
+</p>
 
-  <kbd>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/CSS"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=css"
-        />
-        <img src="https://skillicons.dev/icons?i=css&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a
-      href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=javascript"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=javascript&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
+<h3 align="left">Back-End Development :</h3>
+<p align="left"> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" alt="flask" width="40" height="40"/> </a>
+</p>
 
-  <kbd>
-    <a
-      href="https://www.typescriptlang.org/"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=typescript"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=typescript&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=bootstrap"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=bootstrap&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
+ <h3 align="left">Desktop app Developemnt CLI/GUI :</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+</p>
 
-  <kbd>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=jquery"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=jquery&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=tailwind"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=tailwind&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
+ <h3 align="left">AI/ML :</h3>
+<p align="left"> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+</p>
 
-  <kbd>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=react"
-        />
-        <img src="https://skillicons.dev/icons?i=react&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/user-attachments/assets/7e0ec6c3-fd13-4dcd-a577-68313ca29c16"
-        />
-        <img src="https://github.com/user-attachments/assets/3224622d-c4ef-45ac-a46c-c94ee7e59950" alt="icons" height="48" width="48" />
-      </picture>
-    </a>
-  </kbd>
+<h3 align="left">Database :</h3>
+<p align="left"> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+</p>
 
-  <kbd>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=nodejs"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=nodejs&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=express"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=express&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=redux"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=redux&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=mongo"
-        />
-        <img src="https://skillicons.dev/icons?i=mongo&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
+<h3 align="left">Others :</h3>
+<p align="left">
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+ 
 
-  <kbd>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=mysql"
-        />
-        <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=git"
-        />
-        <img src="https://skillicons.dev/icons?i=git&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=github"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=github&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://bitbucket.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=bitbucket"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=bitbucket&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a
-      href="https://developer.android.com/studio/"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=androidstudio"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=androidstudio&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=vscode"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=vscode&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=postman"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=postman&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
 
-  <kbd>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=npm"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=npm&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
-
-  <kbd>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=docker"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=docker&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
-
-  <kbd>
-    <a
-      href="https://www.adobe.com/uk/products/photoshop.html"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=photoshop"
-        />
-        <img
-          src="https://skillicons.dev/icons?i=photoshop&theme=light"
-          alt="icons"
-        />
-      </picture>
-    </a>
-  </kbd>
-
-  <kbd>
-    <a
-      href="https://www.adobe.com/uk/products/premiere.html"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=pr"
-        />
-        <img src="https://skillicons.dev/icons?i=pr&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
-
-  <kbd>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=linux"
-        />
-        <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
-
-  <kbd>
-    <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=arch"
-        />
-        <img src="https://skillicons.dev/icons?i=arch&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
-
-  <kbd>
-    <a href="https://kali.org/" target="_blank" rel="noreferrer">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=kali"
-        />
-        <img src="https://skillicons.dev/icons?i=kali&theme=light" alt="icons" />
-      </picture>
-    </a>
-  </kbd>
-  </p>
-</div>
 
 <h3 align="left">⚙️ Projects:</h3>
 <div align="left">
