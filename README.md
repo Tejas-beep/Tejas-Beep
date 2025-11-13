@@ -30,7 +30,7 @@
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <div align="left">
   <p align="left">
-          <a href="https://www.instagram.com/iam_tejas_18/" target="_blank" rel="noreferrer"> <kbd> <img
+          <a href="https://www.instagram.com/iam_tejas_02/" target="_blank" rel="noreferrer"> <kbd> <img
               src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
               width="40" height="32" /></a>
           <a href="https://www.linkedin.com/in/tejas-mahajan-8a65a1343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"
