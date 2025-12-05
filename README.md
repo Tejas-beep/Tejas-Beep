@@ -144,20 +144,6 @@
 </p>
 
 
-
-
-
-<h3 align="left">⚙️ Projects:</h3>
-<div align="left">
-  <a href="https://github.com/Tejas-beep/AndroSploit#gh-light-mode-only"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Tejas-beep&repo=AndroSploit" />
-  </a>
-
-  <a href="https://github.com/Tejas-beep/AndroSploit#gh-dark-mode-only"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Tejas-beep&repo=AndroSploit&theme=github_dark" />
-  </a>
-</div>
-
 <div>
 <p>
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Beep&show_icons=true&locale=en&theme=tokyonight" alt="Tejas-Beep" />
